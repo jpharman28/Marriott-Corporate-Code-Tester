@@ -17,6 +17,7 @@ Please download and install all dependancies for script to work.
 - Webdriver Manager https://pypi.org/project/webdriver-manager/
 
 ***People new to user scripts/python please read***
+
 If you have any trouble installing these, a simple google search will help you out. If you are a complete noob (I am too), go to youtube and search how to run python scripts, how to install selenium, how to install webdriver, etc. 
 
 These videos should help you out. Remember, this is a script not a regular program so just clicking the .py will not work. You will need a code editor/builder such as Sublime text. 
