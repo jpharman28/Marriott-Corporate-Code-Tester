@@ -18,6 +18,8 @@ The scirpt of course works with any operating system in which python and seleniu
 
 
 ***Steps***
+
+
 Download .py file 
 
 Install dependancies. 
