@@ -17,7 +17,11 @@ If you have any trouble installing these, a simple google search will help you o
 The scirpt of course works with any operating system in which python and selenium are available including Mac OS and Windows.
 
 
-***Steps**
+***Steps***
+Download .py file 
+
+Install dependancies. 
+
 Once dependancies are installed. It is recommended to create a folder in your desktop and then save the python script file to that file. This is because when the .csv file is created it is better for it to be easily accesible. 
 
 Open the .py file with the code editor of your choice and change "destinationName" to whatever destiantion you want in the following format: "City, State, Country". After this, you can build and run the script. 
