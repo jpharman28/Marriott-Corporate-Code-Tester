@@ -2,9 +2,13 @@
 ***Disclaimer: this is for educational purposes only and for data gathering. I am not affiliated with Marriott hotels, and not responsible for how you use the codes/prices retrieved from this script.***
 
 ***Description***
-This script is meant to test out each Corporate code in order to see which one has the greatest discount for the city of your choice. Specific hotels per city have better partnerships with each company depending on their usage. So instead of typing each code individually, this script will find the best prices and input it into a .csv file which you can then turn into an excel file and sort by price. 
+This script is meant to test out each Corporate code in order to see which one has the greatest discount for the city of your choice. 
+
+Specific hotels per city have better partnerships with each company depending on their usage. So instead of typing each code individually, this script will find the best prices and input it into a .csv file which you can then turn into an excel file and sort by price. 
 
 There is no option to select dates however, since in general these rates to not change by the time of the year. These rates depend on the type of partnership said company has with the individual hotel. 
+
+There are over 100 codes to test, so the script might take a while to run. 
 
 ***Dependancies:***
 Please download and install all dependancies for script to work.
